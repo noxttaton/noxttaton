@@ -23,13 +23,11 @@ Here are some ideas to get you started:
 I’m a Software Engineering graduate with an interest in software testing, web development and programming fundamentals.  
 I enjoy building small projects to learn by doing and continuously improve my skills.
 
-— I’m currently focused on improving my knowledge in **Python** and **JavaScript**.
-
 ---
 
 ## ₍ᐢ. .ᐢ₎ Currently Learning
-- Python  
-- JavaScript  
+- Python + JavaScript
+- Java + Spring boot
 ---
 
 <p align="center">Thanks for visiting my profile ദ്ദി◝ ⩊ ◜.ᐟ </p>
