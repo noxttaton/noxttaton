@@ -20,14 +20,14 @@ Here are some ideas to get you started:
 ---
 
 ## About Me ₍^. .^₎Ⳋ
-I’m a Software Engineering graduate with an interest in software testing, web development and programming fundamentals.  
+I’m a Software Engineering graduate with an interest in web development and programming fundamentals.  
 I enjoy building small projects to learn by doing and continuously improve my skills.
 
 ---
 
 ## ₍ᐢ. .ᐢ₎ Currently Learning
-- Python + JavaScript
-- Java + Spring boot
+- JavaScript + Tailwind CSS
+- PHP + Laravel
 ---
 
 <p align="center">Thanks for visiting my profile ദ്ദി◝ ⩊ ◜.ᐟ </p>
