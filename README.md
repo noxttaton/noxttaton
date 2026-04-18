@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 ---
 
 ## About Me ₍^. .^₎Ⳋ
-I’m a Software Engineering graduate with an interest in web development and programming fundamentals.  
+I’m a Software Engineering graduate with an interest in QA testing and web development.  
 I enjoy building small projects to learn by doing and continuously improve my skills.
 
 ---
-
+<!--
 ## ₍ᐢ. .ᐢ₎ Currently Learning
 - JavaScript + Tailwind CSS
 - PHP + Laravel
